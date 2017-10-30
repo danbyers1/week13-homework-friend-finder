@@ -1,18 +1,25 @@
 {
-  "name": "friendfinder",
+  "name": "humanfinder",
   "version": "1.0.0",
-  "description": "week 13 homework friend finder",
+  "description": "",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "author": "Dan Byers",
-  "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2"
   },
-
- 
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danbyers1/week13-homework-friend-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danbyers1/week13-homework-friend-finder/issues"
+  },
+  "homepage": "https://github.com/danbyers1/week13-homework-friend-finder#readme"
 }
